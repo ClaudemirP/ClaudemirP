@@ -18,9 +18,9 @@
  <img align="center" alt="Claud-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 -->
   
-[<img align="center" alt="ClaudRibeiro | Twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="ClaudRibeiro | LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="ClaudRibeiro | Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="ClaudRibeiro | Twitter" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="blank"/>][twitter]
+[<img align="center" alt="ClaudRibeiro | LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="blank"/>][linkedin]
+[<img align="center" alt="ClaudRibeiro | Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="blank"/>][instagram]
 </div>
   
 
